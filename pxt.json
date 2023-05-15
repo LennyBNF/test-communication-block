@@ -1,5 +1,5 @@
 {
-    "name": "Test capteurs (block)",
+    "name": "Test liaison USB série",
     "description": "",
     "dependencies": {
         "core": "*",
